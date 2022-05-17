@@ -6,19 +6,7 @@ The data dive continues!
 
 Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this assignment, you'll need to complete **one of two** (not both)  Data Challenges. Once again, which challenge you take on is your choice. Just be sure to give it your all -- as the skills you hone will become powerful tools in your data analytics tool belt.
 
-### Before You Begin
-
-1. Create a new repository for this project called `pandas-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, create a directory for the Pandas Challenge you choose. Use folder names corresponding to the challenges: **HeroesOfPymoli** or  **PyCitySchools**.
-
-4. Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
-
-5. Push the above changes to GitHub or GitLab.
-
-## Option 1: Heroes of Pymoli
+## Option 1: [Heroes of Pymoli](heroesofpymoli/HeroesOfPymoli_starter.ipynb)
 
 ![Fantasy](Images/Fantasy.png)
 
@@ -99,9 +87,9 @@ As final considerations:
 
 * You must use the Pandas Library and the Jupyter Notebook.
 * You must submit a link to your Github/Git Lab repo that contains your Jupyter Notebook.
-* You must include a written description of three observable trends based on the data.
+* You must include a [written](https://github.com/RobSalazar/pandas-challenge/blob/main/heroesofpymoli/Observational%20_Trends.txt) description of three observable trends based on the data.
 
-## Option 2: PyCitySchools
+## Option 2: [PyCitySchools](pycityschools/PyCitySchools_starter.ipynb)
 
 ![Education](Images/education.png)
 
@@ -179,10 +167,4 @@ Your final report should include each of the following:
 ### Scores by School Type
 
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
-
-As final considerations:
-
-* Use the pandas library and Jupyter Notebook.
-* You must submit a link to your Github/Git Lab repo that contains your Jupyter Notebook.
-* You must include a written description of at least two observable trends based on the data.
 
